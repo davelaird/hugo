@@ -7,3 +7,5 @@ fields:
   config:
     required: true
   label: dl text field
+pages:
+- examples/blog/content/sdfgfsg.md
