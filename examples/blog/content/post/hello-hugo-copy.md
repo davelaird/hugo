@@ -5,6 +5,7 @@ description = "Saying 'Hello' from Hugo"
 draft = true
 tags = ["example", "hugo", "blog"]
 title = "Hello Hugo!-(copy)"
+menu: "main"
 
 +++
 Hello from Hugo! If you're reading this in your browser, good job! The file `content/post/hello-hugo.md` has been
