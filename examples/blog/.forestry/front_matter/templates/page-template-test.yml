@@ -1,4 +1,9 @@
 ---
 label: page-template-test
 hide_body: true
-fields: []
+fields:
+- name: dl_text_field
+  type: text
+  config:
+    required: true
+  label: dl text field
